@@ -1,4 +1,4 @@
-# libft | 42 Madrid
+# libft | 1337 Rabat
 *Your very own first library :smile:*
 
 <div align="center">
@@ -83,7 +83,7 @@ Bonus functions to implement
 
 ## Additional Functions
 
-Besides ``mandatory`` and ``bonus`` functions, I also have a set of functions inside the ``srca/`` folder. These functions are not part of the ``libft`` subject but they will be useful in future projects. You can check their description in the [libft.h file](https://gitlab.com/madebypixel02/libft/-/blob/main/inc/libft.h)
+Besides ``mandatory`` and ``bonus`` functions, I also have a set of functions inside the ``srca/`` folder. These functions are not part of the ``libft`` subject but they will be useful in future projects. You can check their description in the [libft.h file]([https://gitlab.com/madebypixel02/libft/-/blob/main/inc/libft.h](https://github.com/Mealiclay01/Libft-Master/blob/c452a65f0b6d3506cd69584e3c4a03f655714bc9/libft.h))
 
 ## Installation
 To test this library out, it's recommended that you have the following packages installed
@@ -111,4 +111,4 @@ make norminette		Checks Norm for all .c and .h files in the libft/ folder
 ## Summary
 Really enjoyed this first project, can't wait for the next one :wink:
 
-May 4th, 2021
+Nov 18th, 2024
